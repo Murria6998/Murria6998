@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murria6998
-- 👀 I’m interested in acelerating the dumb prozesses
+- 👀 I’m interested in acelerating the dull processes.
 - 🌱 I’m currently learning Power Query & Power Automates
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: very easy
